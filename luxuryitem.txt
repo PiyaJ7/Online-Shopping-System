@@ -1,0 +1,5 @@
+LI001 Rolex_watch 5190.00
+LI002 Party_shoes 3150.00
+LI003 Hand_bag 2900.00
+LI004 Hair_drier 5760.00
+LI005 Makeup_set 2760.00

@@ -1,0 +1,5 @@
+GI001 Teddy 3900.00
+GI002 Perfume_set 4300.00
+GI003 Printed_mug 1200.00
+GI004 Glass_statue 980.00
+GI005 Gift_box 4200.00

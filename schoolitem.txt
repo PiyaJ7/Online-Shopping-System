@@ -1,0 +1,5 @@
+SI001 School_bag 1900.00
+SI002 Watter_bottle 880.00
+SI003 Glitter_pen_set 550.00
+SI004 CR_book_set 1000.00
+SI005 Calculator 3800.00
